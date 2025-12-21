@@ -1,6 +1,6 @@
 package main
 
-func NewBmw(traveledDistance float64, fuelQuantityUsed float64, averageSpeed string) BMW {
+func NewBMW(traveledDistance float64, fuelQuantityUsed float64, averageSpeed string) BMW {
 	return BMW{
 		TraveledDistance: traveledDistance,
 		FuelQuantityUsed: fuelQuantityUsed,
