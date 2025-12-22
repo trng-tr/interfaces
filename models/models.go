@@ -1,9 +1,4 @@
-package main
-
-type MotorVehicle interface {
-	Mileage() float64
-	PrintInfos()
-}
+package models
 
 type BMW struct {
 	TraveledDistance float64

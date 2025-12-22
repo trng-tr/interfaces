@@ -1,4 +1,4 @@
-package main
+package models
 
 func NewBMW(traveledDistance float64, fuelQuantityUsed float64, averageSpeed string) BMW {
 	return BMW{
