@@ -1,0 +1,2 @@
+# golab
+interfaces in Go
